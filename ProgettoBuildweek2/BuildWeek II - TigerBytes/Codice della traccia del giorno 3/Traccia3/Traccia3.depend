@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1727931304 source:c:\users\msi1\onedrive\desktop\traccia3\main.c
+	"progetto.h"
+
+1727931358 c:\users\msi1\onedrive\desktop\traccia3\progetto.h
+
+1727931307 source:c:\users\msi1\onedrive\desktop\traccia3\progetto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"progetto.h"
+
